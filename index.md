@@ -7,3 +7,5 @@
 * Larry Plotter y La Orden de Unix
 * Larry Plotter y El Misterio del Hacker
 * Larry Plotter y los Commits de la Muerte
+
+**Beatriz Martín Garrido**
